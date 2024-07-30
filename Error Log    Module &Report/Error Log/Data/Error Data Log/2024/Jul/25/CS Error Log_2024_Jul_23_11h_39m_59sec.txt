@@ -1,0 +1,2 @@
+CS Error	11_40_03.147	120	Error 120 Occurred at  No prefix
+CS Error	11_40_06.715	0	Error 0 Occurred at  No DAQ is Connected
